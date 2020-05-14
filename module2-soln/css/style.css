@@ -29,29 +29,29 @@ p {
 	border: 2px solid black;
 	background-color: #ADD8E6;
 	float: right;
-	padding: 4px 8px;
-	margin: 0 0 4px;
+	padding: 4px 6px;
+	margin: 0 0 6px;
 }
 
 #beef {
 	border: 2px solid black;
 	background-color: #CD5C5C;
 	float: right;
-	padding: 4px 8px;
-	margin: 0 0 4px;
+	padding: 4px 6px;
+	margin: 0 0 6px;
 }
 
 #shushi {
 	border: 2px solid black;
 	background-color: #FAF0E6;
 	float: right;
-	padding: 4px 8px;
-	margin: 0 0 4px;
+	padding: 4px 6px;
+	margin: 0 0 6px;
 }
 
 
 .container {
-	margin: 10px;
+	margin: 30px;
 	width: 100%;
 }
 
