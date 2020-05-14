@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: #F0FFF0;
+	background-color: white;
 }
 
 h1 {
@@ -34,6 +34,7 @@ p {
 	padding: 4px 6px;
 	margin: 2px;
 }
+
 #beef {
 	border: 1px solid black;
 	background-color: #CD5C5C;
@@ -41,6 +42,7 @@ p {
 	padding: 4px 6px;
 	margin: 2px;
 }
+
 #shushi {
 	border: 1px solid black;
 	background-color: #FAF0E6;
