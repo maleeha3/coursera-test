@@ -26,6 +26,12 @@ p {
     padding-right:10px;
 }
 
+.section {
+	background-color: #FFFFE0;
+	border: 1px solid black;
+	margin: 5px;
+}
+
 
 #chicken {
 	border: 1px solid black;
@@ -53,7 +59,7 @@ p {
 
 
 .container {
-	margin: 40px;
+	margin: 10px;
 	width: 100%;
 }
 
