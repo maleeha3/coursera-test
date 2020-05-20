@@ -61,7 +61,7 @@ dfn {
 }
 h1 {
   margin: .67em 0;
-  font-size: 2em;
+  font-size: 1.6em;
 }
 mark {
   color: #000;
@@ -1086,7 +1086,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #E0CCD6;
 }
 input,
 button,
@@ -1223,7 +1223,7 @@ h2,
 .h2,
 h3,
 .h3 {
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 h1 small,
@@ -1618,9 +1618,10 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+  background-color: azure;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
-  float: left;
+  float: inherit;
 }
 .col-xs-12 {
   width: 100%;
@@ -4277,7 +4278,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
+  padding: 1px 15px;
   font-size: 18px;
   line-height: 20px;
 }
