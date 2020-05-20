@@ -1,6 +1,7 @@
-body{padding:0px;
+body{
+	padding:0px;
 	margin:0px;
-	
+	background-color: grey;
 }
 
 
@@ -33,7 +34,7 @@ a:hover{
 
 .style{
 	background-color: grey;
-	margin-top: 30px;
+	margin-top: 50px;
 }
 
 
